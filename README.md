@@ -14,7 +14,7 @@ contrast, threshold, blur, blob size and sphere size.
 You can also draw center points in the middle of the contour and read the coordenates.
 If you stop updating the backgroud, the movement will be draw permanently. 
 
-Next step for this program is to send the cordenates of the counturs per OSC 
+Next step for this program is to send the coordenates of the counturs per OSC 
 and make a pin-pon game for humans and non-human players. 
 
 Thanks to Monica Rikic, Leonie Branberger and Andrew Quitmeyer for helping me with the software. 

@@ -1,7 +1,7 @@
 # USBmicroscope_openCV
 This is a Processing sketch to be used with an USB microscope to do computer vision analysis. 
 
-This program was writen in the third Digital Naturalism Conferece in Batticaloa, Sri Lanka. 
+This program was written in the third Digital Naturalism Conferece in Batticaloa, Sri Lanka. 
 The main intention of the program is to reconigze movement under a USB microscope with the 
 computer vision library openCV. By default it does some backgroundsubstraction on the image 
 to draw the contours of beings moving under the microscope.The backgroudsubstraction allows to
